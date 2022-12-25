@@ -1,4 +1,2 @@
-Hi, this is my samples.txt file
-print(a)
-
+a=int(input())
 print(a)
