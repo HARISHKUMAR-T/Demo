@@ -1,1 +1,2 @@
-Hi, this is my saples.txt file
+Hi, this is my samples.txt file
+print(a)
