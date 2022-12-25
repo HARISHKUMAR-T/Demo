@@ -1,1 +1,5 @@
 Hi, this is my saples.txt file
+
+
+a=int(input())
+print(a)
